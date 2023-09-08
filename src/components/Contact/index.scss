@@ -54,7 +54,7 @@ form{
     background-color: #17252A;
   }
   .top{
-    padding-top: 28%;
+    padding-top: 24%;
   }
 
   .li {
@@ -517,7 +517,7 @@ input[type=submit]:hover {
     position: relative;
     // border: 2px solid yellow;
     // padding: auto auto;
-    margin-top: 60%;
+    margin-top: 80%;
     // margin: auto;
     width: 50%;
   
@@ -535,7 +535,7 @@ input[type=submit]:hover {
       min-height: 555px;
       position: absolute;
       opacity: 0;
-      top: 8%;
+      top: 14%;
       margin: 0 auto;
       z-index: 1;
       transform-style: preserve-3d;
@@ -639,7 +639,7 @@ input[type=submit]:hover {
 
 }
 
-@media screen and (max-width: 750px) and (min-height: 765px){
+@media screen and (max-width: 601px) and (min-height: 765px){
   .flex-child:first-child {
     margin-left: 1%;
     margin-right: 3%;
@@ -653,7 +653,7 @@ input[type=submit]:hover {
     position: relative;
     // border: 2px solid yellow;
     // padding: auto auto;
-    margin-top: 60%;
+    margin-top: 80%;
     // margin: auto;
     width: 50%;
   
@@ -670,7 +670,7 @@ input[type=submit]:hover {
       min-height: 566px;
       position: absolute;
       opacity: 0;
-      top: 30%;
+      top: 20%;
       margin: 0 auto;
       z-index: 1;
       transform-style: preserve-3d;
